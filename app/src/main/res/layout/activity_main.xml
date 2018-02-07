@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.wan.viewpagedemo.MainActivity">
+
+    <Button
+        android:id="@+id/simple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="简单的Viewpager"/>
+    <Button
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="显示图片的Viewpager"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/advertise"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="带小圆点的View"
+        android:textAllCaps="false"/>
+    <Button
+        android:id="@+id/splash"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="app引导页"/>
+
+
+</LinearLayout>
