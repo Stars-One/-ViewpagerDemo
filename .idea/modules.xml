@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ViewpageDemo.iml" filepath="$PROJECT_DIR$/ViewpageDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlepoint/circlepoint.iml" filepath="$PROJECT_DIR$/circlepoint/circlepoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circlepointmove/circlepointmove.iml" filepath="$PROJECT_DIR$/circlepointmove/circlepointmove.iml" />
     </modules>
   </component>
 </project>

@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             default:
                 break;
             case R.id.picture:
-                intent.setClass(v.getContext(), ActivityPictureTestViewpagerActivity.class);
+                intent.setClass(v.getContext(), PictureViewpagerActivity.class);
                 startActivity(intent);
                 break;
         }
